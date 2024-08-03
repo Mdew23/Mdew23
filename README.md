@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vladimir Bazhenov
-- 👀 I’m interested in web services
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on web dev
+- 👀 I’m interested in java backend
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on java dev
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

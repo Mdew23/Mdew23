@@ -1,0 +1,19 @@
+public class difference {
+    public static void main(String[] args) {
+        String s1 = "qwerty";
+        String s2 = "question";
+        System.out.println(difference(s1, s2));
+    }
+    public static int difference(String s1, String s2) {
+        int count = 0;
+
+        for (int i = 0; i < s1.length(); i++) {
+            char c = s1.charAt(i);
+
+            if (s2.indexOf(c) != -1) {
+                count++;
+            }
+        }
+        return count;
+    }
+}

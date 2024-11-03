@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vladimir Bazhenov
-- 👀 I’m interested in java backend
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java dev
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: {our life is our code}
